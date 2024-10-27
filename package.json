@@ -1,0 +1,27 @@
+{
+  "name": "aran_assignment",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.1.0",
+    "@mui/icons-material": "^6.1.4",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.3",
+    "next": "14.2.15",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-otp-input": "^3.1.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14"
+  }
+}
